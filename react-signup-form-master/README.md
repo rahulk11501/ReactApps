@@ -11,3 +11,6 @@ Will be watching LESS and JS files and compiling them into ```/build```.
 
 For deploying to production:
 ```NODE_ENV=production gulp deploy``` – will create ```/dist``` directory with compiled and minified single javascript file
+
+###Todo
+Read the following * gulp * SimpleHTTPServer
