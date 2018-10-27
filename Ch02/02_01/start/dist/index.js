@@ -4,6 +4,7 @@ const title = React.createElement(
 	'Hello World'
 )
 
+
 ReactDOM.render(
 	title,
 	document.getElementById('react-container')

@@ -1,5 +1,6 @@
 const { render } = ReactDOM
 
+console.log("incpming")
 render(
 	<h1 id='title'
 		className='header'
