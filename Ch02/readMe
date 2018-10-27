@@ -1,0 +1,10 @@
+#Intro Babel and JSX
+
+* Babel - It is a transpiler which is used to convert Javascript into different versions.
+* JSX - React uses JSX for templating instead of regular JavaScript. It is not necessary to use it, however, following are some pros that come with it.
+
+        It is faster because it performs optimization while compiling code to JavaScript.
+
+        It is also type-safe and most of the errors can be caught during compilation.
+
+        It makes it easier and faster to write templates, if you are familiar with HTML.
